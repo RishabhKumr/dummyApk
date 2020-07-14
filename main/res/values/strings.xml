@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">PlaySchool</string>
+    <string name="please_login">Please Login!</string>
+    <string name="trouble">Having trouble Signing in?</string>
+    <string name="button_contact">[Contact Admin]</string>
+    <string name="Welcome">Welcome Aboard!</string>
+    <string name="signuptext">New here? Create Account</string>
+    <string name="signin">SignIn</string>
+    <string name="Signout">Switch Account?</string>
+    <string name="getemail">Enter Email</string>
+    <string name="getpwd">Enter Password</string>
+    <string name="launch">Launch</string>
+    <string name="Version">Version 1.0.0</string>
+    <string name="facebook_app_id">224325922200067</string>
+    <string name="fb_login_protocol_scheme">fb224325922200067</string>
+    <string name="hi">Hi,</string>
+    <string name="user">User</string>
+    <string name="Student">Student</string>
+    <string name="Teacher">Teacher</string>
+    <string name="Parents">Parent</string>
+    <string name="Institutions">Institution</string>
+    <string name="submit">Submit</string>
+    <string name="studentdetails">Student Details</string>
+    <string name="name">Name*</string>
+    <string name="entername">Enter Name</string>
+    <string name="School">School*</string>
+    <string name="enterschool">Enter School Name</string>
+    <string name="grade">Class/Grade</string>
+    <string name="board">Board</string>
+    <array name="grades">
+        <item>Select Class/Grade</item>
+        <item>Pre-School</item>
+        <item>Nursery</item>
+        <item>Class 1</item>
+        <item>Class 2</item>
+        <item>Class 3</item>
+        <item>Class 4</item>
+        <item>Class 5</item>
+        <item>Class 6</item>
+        <item>Class 7</item>
+        <item>Class 8</item>
+        <item>Class 9</item>
+        <item>Class 10</item>
+        <item>Class 11</item>
+        <item>Class 12</item>
+    </array>
+    <array name="board">
+        <item>Select Board</item>
+        <item>CBSE</item>
+        <item>ICSE</item>
+        <item>IGSE</item>
+        <item>BSEB</item>
+    </array>
+    <string name="title_activity_student__dashboard">Student_Dashboard</string>
+    <string name="title_home">Learn</string>
+    <string name="title_dashboard">WorkBook</string>
+    <string name="title_notifications">Live</string>
+    <string name="Assignmenttest">Assignments/Test</string>
+    <string name="Assignment">Assignment</string>
+    <string name="Testongoing">Test (Ongoing)</string>
+    <string name="Testupcoming">Test (Upcoming)</string>
+    <string name="Livesessions">Live Sessions*</string>
+    <string name="find_session_id">Find Session ID</string>
+    <string name="Search">Search</string>
+    <string name="access">Access</string>
+    <string name="free">Free</string>
+    <string name="engaginvideos">1000+ Engaging Videos</string>
+    <string name="register">Register</string>
+    <string name="alreadyregistered">Already registered?</string>
+    <string name="login">Login</string>
+    <string name="google_signin">Continue with Google</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="logout">Logout</string>
+    <string name="Attempt_test">Attempt Sample Test</string>
+    <string name="Instagram">Instagram</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Twitter">Twitter</string>
+    <string name="Follow_Us">Follow us</string>
+    <string name="Profile">Profile</string>\
+    <string name="next">Next</string>
+    <string name="privious">Privious</string>
+    <string-array name="subject_list">
+        <item>English</item>
+        <item>Maths</item>
+        <item>Science</item>
+        <item>Computer</item>
+        <item>Social Science</item>
+    </string-array>
+    <string-array name="level_list">
+        <item>Random</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>

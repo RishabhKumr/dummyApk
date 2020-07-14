@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mybutton"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@drawable/navigation_drawer_logo" />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        app:showAsAction="always"
+        android:icon="@drawable/logout_icon"
+        />
+    <item
+        android:id="@+id/start_Chat"
+        app:showAsAction="always"
+        android:icon="@android:drawable/stat_notify_chat"
+        android:title="chat"
+        />
+</menu>
